@@ -35,3 +35,9 @@ Kirjoitetun työn kieliasu on yleensä melko luettavaa ja ymmärrettävää. Kä
 
 ### Viimeistely
 Viimeistely onnistuu minulta yleensä ihan hyvin. Minulla on ihan hyvä silmä kielioppivirheille, vaikkakin pilkutusta voisin kerrata kerran jos toisenkin. Osaan muokata lauseenjärjestyksiä hyvin luettavaan muotoon ja tekstini on tyypillisesti hyvin soljuvaa ja kuuleman mukaan miellyttävä lukea. Minulla ei siis ole viimeistelyn suhteen ongelmia.
+
+## Kehittämistoimet
+
+Tunnistan selkeästi omia haasteitani. Jään usein aloitusvaiheeseen jumiin ja teen paljon työtä ilman, että saan mitään konkreettista aikaiseksi. Tähän auttaisi se, että pyydän aikaisemmin apua ja sparraan esimerkiksi työn ohjaajan kanssa. Tähän auttaisi myös se, jos ideoin aluksi työn raakaversiota jonkun kanssa. Itsenäisesti toimiessani jään usein jumiin enkä usko, että minulla on keinoja selvitä niistä itsekseni kuin vain ajan kanssa ja deadlinejä hipomalla.
+
+Koitan myös matalammalla kynnyksellä tuottaa edes jotain materiaalia paperille ja aloittaa vajaavaisin tiedoin ilman, että vaadin itseltäni liikaa ja sitä, että aloitan ns. *oikein*.
