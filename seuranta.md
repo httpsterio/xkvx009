@@ -5,6 +5,8 @@ PVM  | Aika  | Mitä
 22.05. | 1.0 | CSS säätö ja VS Code konfigurointi
 22.05. | 1.5 | Oppimispäiväkirja osa A kirjoitus
 23.05. | 2.0 | Oppimispäiväkirjan osa B kirjoitus
+06.06. | 2.0 | Oppimistehtävä 2 osa A kirjoitus
+06.06. | 2.0 | Oppispäiväkirjan osa C kirjoitus
 
 ---
 
@@ -23,3 +25,12 @@ Luin suht huolellisesti annetut materiaalit ennen kuin aloitin kirjoittamista. K
 Kirjoittaminen sujui ihan hyvin. Sain yhdellä istumalla kaiken tehtyä.
 
 __Mieliala:__ 4.0/5
+
+---
+
+## 06.06.
+Kirjoitin toisen oppimistehtävän ensimmäisen osan, eli oman tekstin aloitukseen liittyvän tehtävänannon. Kirjoitin esseestäni, loin siihen disposition ja karkean aikataulun kesä- ja heinäkuulle, kuinka aion työstää tekstiä sinä aikana.
+
+Kirjoitin myös oppimispäiväkirjan osan C:n, jossa käsittelin itseäni kirjoittajana. Avasin kirjoitustyyliäni annetun lähdemateriaalin pohjalta ja pohdiskelin itseäni kirjoittajana tutkielman kirjoittamisen eri vaiheiden kautta. Kirjoitus sujui ongelmitta käytännössä yhdeltä istumalta.
+
+__Mieliala:__ 4.5/5
